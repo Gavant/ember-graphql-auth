@@ -1,38 +1,27 @@
-ember-graphql-auth
-==============================================================================
+# @gavant/ember-graphql-auth
 
 [Short description of the addon.]
 
+## Compatibility
 
-Compatibility
-------------------------------------------------------------------------------
+-   Ember.js v3.24 or above
+-   Embroider or ember-auto-import v2
+-   Node.js v14 or above
 
-* Ember.js v3.24 or above
-* Embroider or ember-auto-import v2
-* Node.js v14 or above
-
-
-Installation
-------------------------------------------------------------------------------
+## Installation
 
 ```
-ember install ember-graphql-auth
+ember install @gavant/ember-graphql-auth
 ```
 
-
-Usage
-------------------------------------------------------------------------------
+## Usage
 
 [Longer description of how to use the addon in apps.]
 
-
-Contributing
-------------------------------------------------------------------------------
+## Contributing
 
 See the [Contributing](CONTRIBUTING.md) guide for details.
 
-
-License
-------------------------------------------------------------------------------
+## License
 
 This project is licensed under the [MIT License](LICENSE.md).
