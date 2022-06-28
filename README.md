@@ -1,6 +1,6 @@
 # @gavant/ember-graphql-auth
 
-[Short description of the addon.]
+Auth handling for graphql using ember-simple-auth
 
 ## Compatibility
 
@@ -16,7 +16,7 @@ ember install @gavant/ember-graphql-auth
 
 ## Usage
 
-[Longer description of how to use the addon in apps.]
+This addon provides the mutations and authenticator needed to authenticate users with ember-simple-auth / graphql
 
 ## Contributing
 
